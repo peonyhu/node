@@ -1,4 +1,5 @@
 # node
+```script
 什么是node？
     node是javascript语言的服务器运行环境
     node提供大量的工具库，使得javascript可以调用操作系统级别的API(例如系统文件)
@@ -26,3 +27,4 @@ stackoverflow 遇到解决不了的问题可以在此提问，会有很多热情
 segmentfault
 ES5,ES6,ES7的区别(自己查下)
     ES
+```
